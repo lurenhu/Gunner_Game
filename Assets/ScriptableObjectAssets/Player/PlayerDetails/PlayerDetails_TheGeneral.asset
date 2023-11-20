@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13279e04c05a322409d4c34413d70e82, type: 3}
+  m_Name: PlayerDetails_TheGeneral
+  m_EditorClassIdentifier: 
+  playerCharacterName: The General
+  playerPrefab: {fileID: 6428276562453813980, guid: e657a9996e8347b4a8529c5ab76f1c88, type: 3}
+  runtimeAnimatorController: {fileID: 9100000, guid: e87ce176a15556c459b355908992b930, type: 2}
+  playerHealthAmount: 100
+  isImmuneAfterHit: 1
+  hitImmunityTime: 3
+  startingWeapon: {fileID: 11400000, guid: 67a25a51007ca5d4d991c17ef27590cb, type: 2}
+  startingWeaponList:
+  - {fileID: 11400000, guid: 67a25a51007ca5d4d991c17ef27590cb, type: 2}
+  - {fileID: 11400000, guid: d6d14319299e19044a938b37bd5078c8, type: 2}
+  - {fileID: 11400000, guid: 43e173f5014b1984fbdba6d2297de001, type: 2}
+  - {fileID: 11400000, guid: da486b9f27d7047419d0be8ccc6a88a4, type: 2}
+  - {fileID: 11400000, guid: aa6a895849f4cee4ca1669dc36f10527, type: 2}
+  - {fileID: 11400000, guid: cf7be7fc7801f9f40bcb2857620860ee, type: 2}
+  - {fileID: 11400000, guid: 76ae9c2a8d6fecf4d9cbd37d5c3224db, type: 2}
+  - {fileID: 11400000, guid: 24901aa952fbbc8448d51aca04b3ac53, type: 2}
+  - {fileID: 11400000, guid: 9c5eb922325e5dc469fae80b46e70c9b, type: 2}
+  playerMiniMapIcon: {fileID: 21300000, guid: 709f49100a0267f419aa33d571fb9d25, type: 3}
+  playerHandSprite: {fileID: 21300000, guid: a8c352369ed75924d84743672d1ab512, type: 3}

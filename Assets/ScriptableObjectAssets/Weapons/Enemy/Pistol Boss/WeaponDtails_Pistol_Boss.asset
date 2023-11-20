@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f54d1a1735c2d84ea118748737919fc, type: 3}
+  m_Name: WeaponDtails_Pistol_Boss
+  m_EditorClassIdentifier: 
+  weaponName: Pistol Boss
+  weaponSprite: {fileID: 21300000, guid: 63ad0606bd6d665498cfcf954024039a, type: 3}
+  weaponShootPosition: {x: 1.15, y: 0.3, z: 0}
+  weaponCurrentAmmo: {fileID: 11400000, guid: 75e3bda8e19a0c1468cd9908430fb95f, type: 2}
+  weaponFiringSoundEffect: {fileID: 11400000, guid: 8d6e6bfc95010974ba536ab1714f7a31, type: 2}
+  weaponReloadSoundEffect: {fileID: 11400000, guid: 3d48f6751d4191845a6bc825cc084573, type: 2}
+  weaponShootEffect: {fileID: 11400000, guid: ef672304c9539054380266c5c287b20e, type: 2}
+  hasInfiniteAmmo: 1
+  hasInfiniteClipCapacity: 0
+  weaponClipAmmoCapacity: 10
+  weaponAmmoCapacity: 0
+  weaponFireRate: 0.25
+  weaponPrechargeTime: 0
+  weaponReloadTime: 1.2
